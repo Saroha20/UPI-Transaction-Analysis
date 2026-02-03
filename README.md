@@ -18,10 +18,7 @@ This project analyzes UPI transaction data to understand transaction behavior, r
 ## Key Insights
 - Transaction amount and time of day significantly influence success rates.
 - Transaction failures vary across applications.
-- Most transactions occur during peak evening hours.
-
-## Dashboard Preview
-![UPI Dashboard](dashboard/upi_dashboard.png)
+- Most transactions occur during peak evening hours
 
 ## Conclusion
 This project demonstrates an end-to-end analytics workflow combining data processing, machine learning, SQL analysis, and business visualization.
